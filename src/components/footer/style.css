@@ -1,0 +1,30 @@
+footer {
+    background-color: #1c1b1e;
+    color:#fff;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+}
+footer article {
+    margin-right: 100px;
+    margin-top: 70px;
+}
+footer article:last-of-type {
+    margin-right: 0;
+}
+
+article h5 {
+    font-size: 16px;
+    margin: 12px;
+    cursor: pointer;
+}
+article h6 {
+    font-size: 15px;
+    font-weight: 300;
+    margin: 10px;
+    opacity: 0.8;
+    cursor: pointer;
+}
+article  h6:hover {
+    color: #009688;
+}

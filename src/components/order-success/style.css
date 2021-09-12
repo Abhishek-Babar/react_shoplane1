@@ -1,0 +1,14 @@
+#confirm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+#confirm h2 {
+    margin: 0;
+}
+#confirm img {
+    width: 400px;
+}
